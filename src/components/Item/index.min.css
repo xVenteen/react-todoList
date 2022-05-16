@@ -1,0 +1,1 @@
+.list-item{display:flex;align-items:center;border:1px solid;margin:5px;height:30px;line-height:30px}.list-item:hover{box-shadow:#47b2f9 0px 0px 2px 1px}.list-item p{flex-grow:1}.list-item button{background-color:#f36161;height:80%}

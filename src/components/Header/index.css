@@ -1,0 +1,16 @@
+.todo-header {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.todo-header input {
+  width: 80%;
+}
+
+.todo-header button {
+  display: inline-block;
+  width: 60px;
+  height: 30px;
+
+}

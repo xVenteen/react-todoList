@@ -1,0 +1,13 @@
+.todo-footer {
+    display: flex;
+    align-items: center;
+
+    p {
+        flex-grow: 1;
+    }
+
+    button {
+        background-color: rgb(243, 97, 97);
+        height: 30px;
+    }
+}

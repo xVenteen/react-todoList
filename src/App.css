@@ -1,0 +1,25 @@
+.App {
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+  margin: 50px auto;
+  padding: 10px;
+  border: 1px solid;
+  width: 50%;
+}
+
+button {
+  border: 0;
+  cursor: pointer;
+}
+
+button:hover {
+  border: 1px solid
+}
+
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none
+}

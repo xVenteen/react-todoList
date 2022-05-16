@@ -1,0 +1,21 @@
+.list-item {
+    display: flex;
+    align-items: center;
+    border: 1px solid;
+    margin: 5px;
+    height: 30px;
+    line-height: 30px;
+
+    &:hover {
+        box-shadow: rgb(71, 178, 249) 0px 0px 2px 1px;
+    }
+
+    p {
+        flex-grow: 1;
+    }
+
+    button {
+        background-color: rgb(243, 97, 97);
+        height: 80%;
+    }
+}
